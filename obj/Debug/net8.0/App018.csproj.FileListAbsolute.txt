@@ -1,0 +1,14 @@
+/Users/guyalvizu/Desktop/App001/App018/bin/Debug/net8.0/App018
+/Users/guyalvizu/Desktop/App001/App018/bin/Debug/net8.0/App018.deps.json
+/Users/guyalvizu/Desktop/App001/App018/bin/Debug/net8.0/App018.runtimeconfig.json
+/Users/guyalvizu/Desktop/App001/App018/bin/Debug/net8.0/App018.dll
+/Users/guyalvizu/Desktop/App001/App018/bin/Debug/net8.0/App018.pdb
+/Users/guyalvizu/Desktop/App001/App018/obj/Debug/net8.0/App018.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guyalvizu/Desktop/App001/App018/obj/Debug/net8.0/App018.AssemblyInfoInputs.cache
+/Users/guyalvizu/Desktop/App001/App018/obj/Debug/net8.0/App018.AssemblyInfo.cs
+/Users/guyalvizu/Desktop/App001/App018/obj/Debug/net8.0/App018.csproj.CoreCompileInputs.cache
+/Users/guyalvizu/Desktop/App001/App018/obj/Debug/net8.0/App018.dll
+/Users/guyalvizu/Desktop/App001/App018/obj/Debug/net8.0/refint/App018.dll
+/Users/guyalvizu/Desktop/App001/App018/obj/Debug/net8.0/App018.pdb
+/Users/guyalvizu/Desktop/App001/App018/obj/Debug/net8.0/App018.genruntimeconfig.cache
+/Users/guyalvizu/Desktop/App001/App018/obj/Debug/net8.0/ref/App018.dll
